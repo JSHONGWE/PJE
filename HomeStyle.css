@@ -1,0 +1,28 @@
+h1{
+	text-decoration:Underline;
+}
+h2{
+	text-decoration:Underline;
+}
+
+ol
+{
+    
+    border-style:solid;
+    margin: initial;
+	
+   
+}
+body
+{
+	background-color:lightgray;
+}
+
+aside
+{ 
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+  margin-right: 10px;
+  border-style:solid;
+}
