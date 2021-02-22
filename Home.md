@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
 <title>PJE</title>
 <meta charset="UTF8"/>
@@ -41,7 +41,7 @@
            warning system will make use of visible light communication to alert people of the fire.
          </p>
    </section>
-</br>
+
    <aside>
        <p>
        <img src="https://github.com/JSHONGWE/PJE/blob/main/Me.jpeg?raw=true" alt="Photo of Jonase Shongwe" width="200" height="200"/>
@@ -59,4 +59,3 @@
 </body>
 
 
-</html>
